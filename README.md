@@ -1,6 +1,3 @@
-# Principled Personas
-This repo holds source code for the paper "Principle Personas: Defining and Measuring the Intended Effects of Persona Prompting on Task Performance", to be presented at EMNLP 2025.
-
 
 ## Requirement
 
