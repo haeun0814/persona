@@ -1,4 +1,4 @@
-name: principled-personas #persona-performance
+name: persona-performance
 channels:
 - conda-forge
 - defaults
